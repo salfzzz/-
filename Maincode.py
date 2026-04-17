@@ -1,5 +1,3 @@
-# main_app.py
-# ✅ 真正可用版本：系统音频监听 + 低延迟悬浮字幕
 
 import sys
 import queue
