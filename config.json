@@ -1,0 +1,13 @@
+{
+  "model_size": "base",
+  "device": "cpu",
+  "compute_type": "int8",
+  "target_lang": "zh-CN",
+  "font_size_original": 21,
+  "font_size_translation": 25,
+  "opacity": 0.88,
+  "window_width": 900,
+  "window_x": 300,
+  "window_y": 760,
+  "audio_device_index": null
+}

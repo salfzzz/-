@@ -1,0 +1,6 @@
+numpy
+sounddevice
+faster-whisper
+deep-translator
+PyQt5
+pyinstaller
